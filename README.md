@@ -45,11 +45,6 @@ Currently leading the development of **Smart-Hydro-Souss**, a sovereign, Edge AI
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hajji-Oussama&show_icons=true&theme=radium&hide_border=true" alt="Oussama's GitHub Stats" />
-</p>
-
 ### 📫 Let's Connect!
 <p align="left">
   <a href="mailto:hajji.oussama.cyber@gmail.com">
