@@ -1,65 +1,61 @@
-<!--
-  README احترافي جاهز للنسخ — لملف: README.md
-  اسم الحساب: Hajji-Oussama
-  -- استبدل أي رابط أو قيمة بين [مربعات] بمعلوماتك الحقيقية --
--->
+<h1 align="center">Hi there, I'm Oussama Hajji 👋</h1>
 
-<div align="center">
-  
-  <h1 dir="rtl">مرحباً — أنا أسامة حاجي 👋</h1>
-  <p dir="rtl" style="max-width:900px; color:#334155; font-size:16px;">
-    خبير بنية تحتية وشبكات، مطور تطبيقات أندرويد (Java / Kotlin / Flutter)، متخصص في الأمن السيبراني
-    وأتمتة سير العمل باستخدام <strong>n8n</strong> (بوتات Telegram وIntegrations). أقدّم حلولاً عملية قابلة للنشر،
-    آمنة، وقابلة للقياس للشركات الناشئة والمؤسسات.
-  </p>
+<h3 align="center">Systems Engineer | Edge AI Developer | Android Security Specialist</h3>
 
-  <!-- Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/Role-Android%20%7C%20Networking%20%7C%20Security-blueviolet" alt="role"/>
-    <img src="https://img.shields.io/badge/Stack-Java%20Kotlin%20Flutter%20n8n%20Linux-success" alt="stack"/>
-    <img src="https://img.shields.io/badge/Available-Consulting%20%7C%20Contract-green" alt="availability"/>
-    <img src="https://img.shields.io/github/stars/Hajji-Oussama?style=flat-square" alt="stars"/>
-    <img src="https://img.shields.io/github/followers/Hajji-Oussama?label=Followers&style=flat-square" alt="followers"/>
-  </p>
-</div>
+<p align="center">
+  A dedicated Digital Infrastructure and Systems Engineering student based in Agadir, Morocco. My mission is to bridge the gap between advanced technology and real-world challenges, focusing on autonomous ecosystems, cybersecurity, and intelligent automation.
+</p>
 
 ---
 
-## 🧭 لماذا أستحق اهتمام شركتك؟
-بدأت مشواري في تكنولوجيا الشبكات عام 2015، ثمّ اتجهت لتطوير تطبيقات الأندرويد منذ 2019. في 2024 عمّقت معرفتي في تصميم بنية الشبكات وتأمينها، وفي 2025 دخلت عالم الذكاء الاصطناعي لأتمتة الأعمال—متخصّصًا في بناء "عملاء ذكية" باستخدام n8n وTelegram لتقليل الأعمال اليدوية وتقديم قيمة تجارية فورية.  
-أعمل بأسلوب **قياسي واحترافي**: أفهم متطلبات الأعمال، أحوّلها إلى نموذج أولي سريع، أُطبق معايير أمنية، وأنشر مع مراقبة ومؤشرات أداء (KPI) واضحة.
+### 🚀 What I Do
+- 🧠 **Edge AI & Deep Learning:** Building predictive models (LSTM) for IoT systems (e.g., Smart-Hydro-Souss).
+- 🛡️ **Cybersecurity & Infrastructure:** Designing secure networks, hardening Linux servers, and deploying Dockerized microservices.
+- 📱 **Android Development:** Crafting high-performance, secure mobile applications (Java/Kotlin/Flutter) with Clean Architecture.
+- ⚙️ **Intelligent Automation:** Developing AI-driven workflows and Bots using **n8n** and Telegram for business process optimization.
 
 ---
 
-## 🧩 مجالات التخصص 
-> لكل مجال مستودع مستقل في حسابي: `android/` — `networking/` — `security/` — `automation/`
+### 💻 Tech Stack & Tools
 
-### 1) تطوير تطبيقات أندرويد (2019 — الآن)
-- Java, Kotlin, Flutter — MVVM, Clean Architecture.
-- Room, Retrofit, Coroutines, WorkManager.
-- نشر على Google Play، تحسين أداء، وتجربة مستخدم مخصّصة (RTL/عربي).
-- مخرجات للشركات: APK/Bundle جاهز للنشر، مستندات نشر، CI/CD للـ Play Store.
+**Languages & Frameworks:**
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash_scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-### 2) الشبكات واستضافة (بدأت أساسًا 2015 — متقدم 2024)
-- تصميم LAN/VLAN، إعدادات NAT/Firewall، DNS، TLS.
-- نشر تطبيقات باستخدام Docker / Docker Compose / Nginx.
-- بنى تحتية قابلة للنسخ (templates, IaC snippets).
+**Infrastructure, DevOps & Automation:**
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23FF6D5A.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 3) الأمن السيبراني (حماية شبكات ومواقع)
-- اختبارات مسح الشبكات (scanning), hardening, remediation playbooks.
-- تقارير قابلة للتنفيذ (executive + technical) لفِرق DevOps.
-- إعداد سياسة logging/monitoring وتنبيهات الحوادث.
-
-### 4) أتمتة الأعمال & Telegram Bots عبر n8n (AI-driven automation — 2025)
-- تصميم تدفقات n8n لربط APIs، قواعد بيانات، وTelegram.
-- بوتات إشعارات CI/CD، دعم المستخدم، جمع تحليلات.
-- خفض زمن الاستجابة اليدوية وزيادة الدقّة بعمليات الأعمال المتكررة.
+**AI & Data Science:**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
-## ✅ ماذا أقدّم للشركات — نتائج ملموسة
-- اختصار زمن التسليم: نماذج أولية خلال 3–7 أيام، وإصدار MVP خلال 2–6 أسابيع (حسب النطاق).  
-- مؤشرات قياس (نماذج KPI) أضمّنها لكل مشروع: زمن تحميل، معدل الأخطاء، زمن استجابة API، نسبة التوافر (uptime).  
-- أمان افتراضي مضمّن: TLS، تحديثات دورية، سجلات وإشعارات، ومراجعات ثغرات قبل النشر.  
-- قابلية التوسعة: بنية موديولية، Docker-ready، توثيق واضح للـ API.
+### 🏆 Featured Project: Smart-Hydro-Souss (Hackathon 2026)
+Currently leading the development of **Smart-Hydro-Souss**, a sovereign, Edge AI-driven predictive maintenance ecosystem designed to mitigate agricultural water loss. 
+- **Core Tech:** Multivariate Time-Series Forecasting (LSTM), ESP32 Edge Computing, n8n Automation, Android Dashboard.
+- **Goal:** Transforming reactive maintenance into absolute predictive intelligence.
 
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hajji-Oussama&show_icons=true&theme=radium&hide_border=true" alt="Oussama's GitHub Stats" />
+</p>
+
+### 📫 Let's Connect!
+<p align="left">
+  <a href="mailto:hajji.oussama.cyber@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/hajji-oussama" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
